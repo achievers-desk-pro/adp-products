@@ -12,6 +12,20 @@
       }
     },
     {
+      "style": "video-block",
+      "videoUrl": "/video/achievers-desk-mkt-vdo.mp4",
+      "styleInfo": {
+        "marginTop": "4rem",
+        "backgroundColor": "#f9fafb",
+        "video": {
+          "muted": true,
+          "loop": true,
+          "autoplay": true,
+          "controls": false
+        }
+      }
+    },
+    {
       "title": "Why Choose Us",
       "style": "image-with-text",
       "image": "/images/achievers-desk-lp-1.png",
@@ -35,13 +49,47 @@
       }
     },
     {
-      "title": "What Users Say",
+      "title": "Clarity Over Clutter",
+      "style": "image-with-text",
+      "image": "/images/achievers-desk-lp-3.png",
+      "htmlText": "<div class=\"max-w-3xl mx-auto\">\n  <h3 class=\"text-3xl font-bold text-gray-800 mb-4\">Value>>>Profit</h3>\n  <p class=\"text-lg text-gray-600 mb-6\">\n    At Achievers Desk, we craft tools that quietly empower your daily momentum. \n    With privacy built in, focus at the forefront, and ease in every click — \n    our digital spaces feel like second nature.\n  </p>\n  <p class=\"text-base text-gray-500\">\n    We believe your ideas deserve a home that's intuitive, private, and purpose-driven. \n    Everything we build respects your flow.\n  </p>\n</div>",
+      "styleInfo": {
+        "imageAlignment": "right",
+        "marginTop": "4rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "style": "video-with-text",
+      "videoType": "embed",
+      "videoUrl": "https://www.youtube.com/watch?v=jHieFhuVCDQ",
+      "title": "Featured: Not just another Digital Journal",
+      "text": "Whether it’s wonderful or sad day, note all mood and see bigger picture. Set daily goal and track it.",
+      "styleInfo": {
+        "videoAlignment": "left"
+      }
+    },
+    {
+      "title": "What It can do",
       "style": "testimonial",
-      "htmlText": "<blockquote class='italic text-gray-700 max-w-xl mx-auto'>“This suite replaced 3 apps I used to pay for.” – Rhea S.</blockquote>",
+      "htmlText": "<blockquote class='italic text-gray-700 max-w-xl mx-auto'>“This suite can replace multiple apps you pay for.” – Achievers Desk.</blockquote>",
       "styleInfo": {
         "marginTop": "4rem",
-        "backgroundColor": "#f1f5f9"
+        "backgroundColor": "#f1f5f9",
+        "text-align": "center"
+      }
+    },
+    {
+      "title": "Choose Your Platform",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"max-w-3xl mx-auto grid grid-cols-1 sm:grid-cols-2 gap-6 text-center\">\n  <div class=\"bg-white rounded-xl shadow p-6\">\n    <img src=\"/images/gumroad.svg\" alt=\"Gumroad Logo\" class=\"mx-auto w-12 h-12 mb-3\">\n    <h3 class=\"text-xl font-bold text-gray-800 mb-2\">Buy on Gumroad</h3>\n    <p class=\"text-sm text-gray-600 mb-4\">Get lifetime access with instant download on Gumroad.</p>\n    <a href=\"https://achieversdesk.gumroad.com\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-block bg-blue-600 text-white px-8 py-3 rounded-full text-base font-medium min-w-[200px] hover:bg-blue-700 transition\">Go to Gumroad</a>\n  </div>\n  <div class=\"bg-white rounded-xl shadow p-6\">\n    <img src=\"/images/payhip.svg\" alt=\"Payhip Logo\" class=\"mx-auto w-12 h-12 mb-3\">\n    <h3 class=\"text-xl font-bold text-gray-800 mb-2\">Buy on Payhip</h3>\n    <p class=\"text-sm text-gray-600 mb-4\">Access your download immediately via Payhip’s secure checkout.</p>\n    <a href=\"https://payhip.achieversdeskpro.store\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-block bg-purple-600 text-white px-8 py-3 rounded-full text-base font-medium min-w-[200px] hover:bg-purple-700 transition\">Go to Payhip</a>\n  </div>\n</div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
       }
     }
+
   ]
 }
