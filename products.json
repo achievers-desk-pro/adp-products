@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "meal-planner",
+    "title": "Meal Planner",
+    "subtitle": "Plan, Drag, Drop. Eat with Purpose.",
+    "description": "A weekly meal planning tool that supports liver, heart, and overall wellness goals. Includes drag-and-drop UI, printable PDF calendar, and goal-focused suggestions.",
+    "tags": ["Health", "Nutrition", "Planner"],
+    "badge": "Goal-Based",
+    "microTestimonial": "“Helped me stick to my diet goals without confusion.” – Aisha M.",
+    "image": "/images/meal-thumb.jpg",
+    "thumbnails": ["/images/meal-planner-thumb.png",
+      "https://ik.imagekit.io/achieversdesk27/meal-planner/1.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/meal-planner/2.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/meal-planner/3.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/meal-planner/4.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/meal-planner/5.png??tr=w-200,h-200,fo-auto"
+    ],
+    "trustIndicators": ["No Login Required", "Targeted Meal Goals", "Instant PDF"],
+    "ctaText": "Plan Meals Now"
+  },
+  {
+    "slug": "invoice-generator",
+    "title": "Invoice Generator",
+    "subtitle": "Invoices that Impress. In Seconds.",
+    "description": "Create tax-compliant A4 invoices, reuse client data, and print or export instantly without login.",
+    "tags": ["Finance", "No-code", "Printable"],
+    "badge": "Free Forever",
+    "microTestimonial": "“Super clean and fast!” – Ritu J.",
+    "rating": 4.9,
+    "reviews": 210,
+    "image": "/images/invoice-thumb.jpg",
+    "thumbnails": ["/images/invoice-thumb1.jpg", "/images/invoice-thumb2.jpg"],
+    "trustIndicators": ["No Signup Needed", "Instant PDF", "Secure"],
+    "ctaText": "Generate Invoice"
+  },
+  {
+    "slug": "investment-planner",
+    "title": "Investment Planner",
+    "subtitle": "Track Your Wealth. Forecast Your Future.",
+    "description": "Monitor monthly investments and visualize performance vs. planned goals. Includes cashflow vs market gain charts and forecast comparisons.",
+    "tags": ["Finance", "Forecast", "Growth"],
+    "badge": "Investor’s Pick",
+    "microTestimonial": "“This gives me peace of mind every month.” – Naveen R.",
+    "rating": 4.7,
+    "reviews": 140,
+    "image": "/images/investment-thumb.jpg",
+    "thumbnails": ["/images/investment-thumb1.jpg", "/images/investment-thumb2.jpg"],
+    "trustIndicators": ["Forecast-Ready", "Chart Visualization", "No Coding Needed"],
+    "ctaText": "Start Planning"
+  },
+  {
+    "slug": "subscription-tracker",
+    "title": "Subscription Tracker",
+    "subtitle": "Every Rupee Accounted. No Surprises.",
+    "description": "Track active and upcoming subscriptions, see cost breakdown by category, and manage micro-subscriptions before they add up.",
+    "tags": ["Budgeting", "Alerts", "Finance"],
+    "badge": "Bill Smart",
+    "microTestimonial": "“I finally got my subscriptions under control.” – Arjun T.",
+    "rating": 4.6,
+    "reviews": 95,
+    "image": "/images/subscription-thumb.jpg",
+    "thumbnails": ["/images/subscription-thumb1.jpg", "/images/subscription-thumb2.jpg"],
+    "trustIndicators": ["Calendar Alerts", "Cost Categories", "Easy Filters"],
+    "ctaText": "Track Subscriptions"
+  }
+]

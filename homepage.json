@@ -1,0 +1,47 @@
+{
+  "sections": [
+    {
+      "title": "Welcome to {{company.name}}",
+      "style": "hero",
+      "htmlText": "<h1 class='text-4xl font-bold mb-4'>Purpose-built tools for purposeful lives.</h1><p class='text-lg text-gray-300'>No fluff. Just focus.</p>",
+      "styleInfo": {
+        "marginTop": "0",
+        "backgroundColor": "#0f172a",
+        "color": "#f9fafb",
+        "text-align": "center"
+      }
+    },
+    {
+      "title": "Why Choose Us",
+      "style": "image-with-text",
+      "image": "/images/placeholder.png",
+      "htmlText": "<p><strong>Privacy-first, print-ready, and zero-friction.</strong> Our tools are trusted by thousands to get the job done — without signups or subscriptions.</p>",
+      "styleInfo": {
+        "imageAlignment": "left",
+        "marginTop": "4rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "Products",
+      "style": "func-call",
+      "funcName": "getProductsList",
+      "sectionId": "product-list",
+      "htmlText": "<p><strong>Privacy-first, print-ready, and zero-friction.</strong> Our tools are trusted by thousands to get the job done — without signups or subscriptions.</p>",
+      "styleInfo": {
+        "imageAlignment": "left",
+        "marginTop": "4rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "What Users Say",
+      "style": "testimonial",
+      "htmlText": "<blockquote class='italic text-gray-700 max-w-xl mx-auto'>“This suite replaced 3 apps I used to pay for.” – Rhea S.</blockquote>",
+      "styleInfo": {
+        "marginTop": "4rem",
+        "backgroundColor": "#f1f5f9"
+      }
+    }
+  ]
+}

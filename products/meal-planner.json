@@ -1,0 +1,74 @@
+{
+  "name": "Meal Planner Web App",
+  "description": "A powerful drag-and-drop meal planner designed to support your health goals with precision and ease. Whether you're aiming to improve liver function, boost heart health, manage diabetes, or simply eat cleaner, this tool empowers you to structure weekly plans aligned with your dietary needs. Create grocery lists, personalize your preferences, and print schedules that help you stay consistent.",
+  "sections": [
+    {
+      "title": "Smart Planning",
+      "image": "https://ik.imagekit.io/achieversdesk27/meal-planner/3.png",
+      "text": "With Smart Planning, you can organize your weekly meals based on specific health targets—be it reducing inflammation, improving gut health, or supporting organ detox. The planner helps you align your food choices with your personal wellness goals, saving you both time and mental effort.",
+      "style": "image-with-text",
+      "htmlText": "<p>With Smart Planning, you can organize your weekly meals based on specific health targets—be it reducing inflammation, improving gut health, or supporting organ detox. The planner helps you align your food choices with your personal wellness goals, saving you both time and mental effort.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "left"
+      }
+    },
+    {
+      "title": "Drag-and-Drop UI",
+      "image": "https://ik.imagekit.io/achieversdesk27/meal-planner/1.png",
+      "text": "The intuitive drag-and-drop interface makes scheduling meals a seamless experience. Simply drag your preferred breakfast, lunch, or dinner options into the desired time slots, and watch your weekly plan come to life—visually clean, easy to follow, and entirely customizable.",
+      "style": "text-over-image",
+      "htmlText": "<p class=\"text-white text-xl font-bold\">The intuitive drag-and-drop interface makes scheduling meals a seamless experience. Simply drag your preferred breakfast, lunch, or dinner options into the desired time slots, and watch your weekly plan come to life—visually clean, easy to follow, and entirely customizable.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b"
+      }
+    },
+    {
+      "title": "Try It Now",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"text-center\"><a href='https://mealplanner.achieversdeskpro.com' class='bg-blue-600 text-white px-6 py-3 rounded-full text-lg hover:bg-blue-700 transition'>Get the Meal Planner</a></div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "complete guide",
+      "image": "https://ik.imagekit.io/achieversdesk27/meal-planner/4.png",
+      "text": "Once your plan is set, print it out in a clean and readable calendar view. Ideal for sticking on your fridge or keeping in your wellness journal, the printable format ensures you stay on track with every meal, snack, and hydration reminder throughout the week.",
+      "style": "image-grid",
+      "htmlText": "<p>Once your plan is set, print it out in a clean and readable calendar view. Ideal for sticking on your fridge or keeping in your wellness journal, the printable format ensures you stay on track with every meal, snack, and hydration reminder throughout the week.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "Health Planner",
+      "image": "",
+      "text": "The planner supports a focused text-only mode for users who prefer clarity without visuals. This view is perfect for rapid review and note-taking, making it easier to communicate your weekly intentions with nutritionists or caregivers.",
+      "style": "text-only",
+      "htmlText": "<p>The planner supports a focused text-only mode for users who prefer clarity without visuals. This view is perfect for rapid review and note-taking, making it easier to communicate your weekly intentions with nutritionists or caregivers.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b",
+        "color": "#f9fafb"
+      }
+    },
+    {
+      "title": "Ready to Take Control?",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"text-center\"><a href='https://achieversdesk.gumroad.com/l/meal-planner-iron' class='bg-green-600 text-blue px-6 py-3 rounded-full text-lg hover:bg-green-700 transition'>See Pricing Options</a></div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
+      }
+    }
+  ]
+}
