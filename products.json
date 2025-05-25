@@ -6,32 +6,36 @@
     "description": "A weekly meal planning tool that supports liver, heart, and overall wellness goals. Includes drag-and-drop UI, printable PDF calendar, and goal-focused suggestions.",
     "tags": ["Health", "Nutrition", "Planner"],
     "badge": "Goal-Based",
-    "microTestimonial": "“Helped me stick to my diet goals without confusion.” – Aisha M.",
+    "microTestimonial": "“Helps you to stick to your diet goals without confusion.”",
     "image": "/images/meal-thumb.jpg",
     "thumbnails": ["/images/meal-planner-thumb.png",
-      "https://ik.imagekit.io/achieversdesk27/meal-planner/1.png??tr=w-200,h-200,fo-auto",
       "https://ik.imagekit.io/achieversdesk27/meal-planner/2.png??tr=w-200,h-200,fo-auto",
       "https://ik.imagekit.io/achieversdesk27/meal-planner/3.png??tr=w-200,h-200,fo-auto",
       "https://ik.imagekit.io/achieversdesk27/meal-planner/4.png??tr=w-200,h-200,fo-auto",
-      "https://ik.imagekit.io/achieversdesk27/meal-planner/5.png??tr=w-200,h-200,fo-auto"
+      "https://ik.imagekit.io/achieversdesk27/meal-planner/5.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/meal-planner/1.png??tr=w-200,h-200,fo-auto"
     ],
     "trustIndicators": ["No Login Required", "Targeted Meal Goals", "Instant PDF"],
     "ctaText": "Plan Meals Now"
   },
   {
-    "slug": "invoice-generator",
-    "title": "Invoice Generator",
-    "subtitle": "Invoices that Impress. In Seconds.",
-    "description": "Create tax-compliant A4 invoices, reuse client data, and print or export instantly without login.",
-    "tags": ["Finance", "No-code", "Printable"],
-    "badge": "Free Forever",
-    "microTestimonial": "“Super clean and fast!” – Ritu J.",
-    "rating": 4.9,
-    "reviews": 210,
-    "image": "/images/invoice-thumb.jpg",
-    "thumbnails": ["/images/invoice-thumb1.jpg", "/images/invoice-thumb2.jpg"],
-    "trustIndicators": ["No Signup Needed", "Instant PDF", "Secure"],
-    "ctaText": "Generate Invoice"
+    "slug": "portfolio-tracker",
+    "title": "Portfolio Tracker",
+    "subtitle": "Visualize Holdings. Optimize Returns.",
+    "description": "Track all your investments across stocks, ETFs, and mutual funds in one place. Analyze performance with gain/loss charts and sector distribution.",
+    "tags": ["Finance", "Tracking", "Stocks"],
+    "badge": "User Favorite",
+    "microTestimonial": "“Don't just invest track your portfolio at a glance.”",
+    "image": "/images/portfolio-thumb.jpg",
+    "thumbnails": [
+      "https://ik.imagekit.io/achieversdesk27/portfolio-tracker/2.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/portfolio-tracker/3.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/portfolio-tracker/4.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/portfolio-tracker/5.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/portfolio-tracker/1.png??tr=w-200,h-200,fo-auto"
+    ],
+    "trustIndicators": ["Sector Analysis", "Real-Time Charts", "Auto Gain Calculation"],
+    "ctaText": "Track Now"
   },
   {
     "slug": "investment-planner",
@@ -40,11 +44,15 @@
     "description": "Monitor monthly investments and visualize performance vs. planned goals. Includes cashflow vs market gain charts and forecast comparisons.",
     "tags": ["Finance", "Forecast", "Growth"],
     "badge": "Investor’s Pick",
-    "microTestimonial": "“This gives me peace of mind every month.” – Naveen R.",
-    "rating": 4.7,
-    "reviews": 140,
+    "microTestimonial": "“Gives you peace of mind every month.”",
     "image": "/images/investment-thumb.jpg",
-    "thumbnails": ["/images/investment-thumb1.jpg", "/images/investment-thumb2.jpg"],
+    "thumbnails": [
+      "https://ik.imagekit.io/achieversdesk27/investment-planner/banner-report.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/investment-planner/Reports.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/investment-planner/planner_chart.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/investment-planner/investment_tables.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/investment-planner/IP-Iron-D3.png??tr=w-200,h-200,fo-auto"
+    ],
     "trustIndicators": ["Forecast-Ready", "Chart Visualization", "No Coding Needed"],
     "ctaText": "Start Planning"
   },
@@ -55,12 +63,132 @@
     "description": "Track active and upcoming subscriptions, see cost breakdown by category, and manage micro-subscriptions before they add up.",
     "tags": ["Budgeting", "Alerts", "Finance"],
     "badge": "Bill Smart",
-    "microTestimonial": "“I finally got my subscriptions under control.” – Arjun T.",
-    "rating": 4.6,
-    "reviews": 95,
+    "microTestimonial": "“Get your subscriptions streams under control.”",
     "image": "/images/subscription-thumb.jpg",
-    "thumbnails": ["/images/subscription-thumb1.jpg", "/images/subscription-thumb2.jpg"],
+    "thumbnails": [
+      "https://ik.imagekit.io/achieversdesk27/subscription-tracker/calendar.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/subscription-tracker/charts.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/subscription-tracker/das.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/subscription-tracker/printable.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/subscription-tracker/dashboard.png??tr=w-200,h-200,fo-auto"
+    ],
     "trustIndicators": ["Calendar Alerts", "Cost Categories", "Easy Filters"],
     "ctaText": "Track Subscriptions"
+  },
+  {
+    "slug": "insurance-planner",
+    "title": "Insurance Planner",
+    "subtitle": "Stay Covered. Stay Organized.",
+    "description": "A Google Sheets solution to manage all insurance policies across your family. Track premium due dates, coverage types, and analyze your portfolio with an automated dashboard.",
+    "tags": ["Finance", "Insurance", "Planner"],
+    "badge": "Family Safety Tool",
+    "microTestimonial": "“Never miss a renewal now – this sheet gives you total control.”",
+    "image": "/images/insurance-planner-thumb.jpg",
+    "thumbnails": [
+      "https://ik.imagekit.io/achieversdesk27/insurance-planner/2.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/insurance-planner/3.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/insurance-planner/4.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/insurance-planner/5.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/insurance-planner/1.png??tr=w-200,h-200,fo-auto"
+    ],
+    "trustIndicators": ["Multi-Policy Tracking", "Family-Wide Coverage", "Renewal Alerts & Dashboard"],
+    "ctaText": "Plan Insurance Now"
+  },
+  {
+    "slug": "invoice-generator",
+    "title": "Invoice Generator",
+    "subtitle": "Invoices that Impress. In Seconds.",
+    "description": "Create tax-compliant A4 invoices, reuse client data, and print or export instantly without login.",
+    "tags": ["Finance", "No-code", "Printable"],
+    "badge": "User Friendly",
+    "microTestimonial": "“Super clean and fast!”",
+    "image": "/images/invoice-thumb.jpg",
+    "thumbnails": [
+      "https://ik.imagekit.io/achieversdesk27/invoice-generator/2.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/invoice-generator/3.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/invoice-generator/4.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/invoice-generator/5.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/invoice-generator/1.png??tr=w-200,h-200,fo-auto"
+    ],
+    "trustIndicators": ["No Signup Needed", "Instant PDF", "Secure"],
+    "ctaText": "Generate Invoice"
+  },
+  {
+    "slug": "priority-matrix",
+    "title": "Priority Matrix WebApp",
+    "subtitle": "Plan Smarter. Act Faster.",
+    "description": "Organize tasks using the Eisenhower Matrix with real-time updates. Supports multiple projects, PDF export, and email summaries for maximum clarity.",
+    "tags": ["Productivity", "Planning", "Matrix"],
+    "badge": "Pro Workflow Tool",
+    "microTestimonial": "“Helps you focus on what truly matters, across all your projects.”",
+    "image": "/images/priority-matrix-thumb.jpg",
+    "thumbnails": [
+      "https://ik.imagekit.io/achieversdesk27/priority-matrix/4.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/priority-matrix/5.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/priority-matrix/6.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/priority-matrix/10.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/priority-matrix/1.png??tr=w-200,h-200,fo-auto"
+    ],
+    "trustIndicators": ["Eisenhower Logic", "Project Switching", "Email + PDF Output"],
+    "ctaText": "Try the Matrix"
+  },
+  {
+    "slug": "digital-journal",
+    "title": "Digital Journal",
+    "subtitle": "Reflect Daily. Grow Consistently.",
+    "description": "Capture your moods, track sentiments, and log reflections with ease. This digital journal features a calendar-based view for daily mood summaries and personal resolution tracking.",
+    "tags": ["Wellness", "Mood Tracking", "Daily Journal"],
+    "badge": "Mindful Choice",
+    "microTestimonial": "“Gentle way to stay in touch with how you feel and what you want.”",
+    "rating": 5.0,
+    "reviews": 2,
+    "image": "/images/digital-journal-thumb.jpg",
+    "thumbnails": [
+      "https://ik.imagekit.io/achieversdesk27/digital-journal/4.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/digital-journal/5.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/digital-journal/6.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/digital-journal/3.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/digital-journal/1.png??tr=w-200,h-200,fo-auto"
+    ],
+    "trustIndicators": ["Mood Logging", "Calendar Overview", "Resolution Reflection"],
+    "ctaText": "Start Journaling"
+  },
+  {
+    "slug": "webhook-to-sheet",
+    "title": "Webhook to Google Sheet",
+    "subtitle": "No-Code Sales Tracking in Real Time.",
+    "description": "Capture sales data from platforms like Gumroad, Payhip, or custom forms directly into Google Sheets. A one-time purchase solution with full data control for curation, insights, and marketing strategy—all without writing code.",
+    "tags": ["Automation", "Sales Tracking", "No-Code"],
+    "badge": "One-Time Buy",
+    "microTestimonial": "“Set it up once and it works every single time. Total game changer!”",
+    "image": "/images/webhook-sheet-thumb.jpg",
+    "thumbnails": [
+      "https://ik.imagekit.io/achieversdesk27/webhook-to-sheet/webhook-thumbnail.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/webhook-to-sheet/webhook-solution4.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/webhook-to-sheet/webhook-solution1.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/webhook-to-sheet/webhook-solution5.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/webhook-to-sheet/wh-to-gs.png??tr=w-200,h-200,fo-auto"
+    ],
+    "trustIndicators": ["No-Code Setup", "Private & Secure", "Real-Time Sales Feed"],
+    "ctaText": "Take Control Now"
+  },
+  {
+    "slug": "order-tracker",
+    "title": "Order Tracker",
+    "subtitle": "Control Every Step of the Order Flow.",
+    "description": "Track and manage orders across vendors, timelines, and statuses. Configure your tracking setup and explore insights through a visual dashboard featuring charts and dynamic filters.",
+    "tags": ["Logistics", "Dashboard", "Google Sheets"],
+    "badge": "Free Smart Ops Tool",
+    "microTestimonial": "“The charts and filters make it so easy to get a real-time view of our orders.”",
+    "image": "/images/order-tracker-thumb.jpg",
+    "thumbnails": [
+      "https://ik.imagekit.io/achieversdesk27/order-tracker/2.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/order-tracker/3.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/order-tracker/4.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/order-tracker/5.png??tr=w-200,h-200,fo-auto",
+      "https://ik.imagekit.io/achieversdesk27/order-tracker/1.png??tr=w-200,h-200,fo-auto"
+    ],
+    "trustIndicators": ["Configurable Tracking", "Multi-Chart Dashboard", "Filter-Driven Insights"],
+    "ctaText": "Track Orders Now"
   }
 ]
