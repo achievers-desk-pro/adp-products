@@ -1,0 +1,74 @@
+{
+  "name": "Subscription Tracker",
+  "description": "An intuitive subscription tracker built to put you back in control of recurring expenses. Whether it's streaming services, utility bills, or business tools, this planner ensures you know exactly where your money goes each month—with no surprises.",
+  "sections": [
+    {
+      "title": "One Place for Every Subscription",
+      "image": "https://ik.imagekit.io/achieversdesk27/subscription-tracker/table.png",
+      "text": "Record all your subscriptions with ease—amount, due date, category, and frequency. No more digging through emails or statements. It's all in one view.",
+      "style": "image-with-text",
+      "htmlText": "<p>Record all your subscriptions with ease—amount, due date, category, and frequency. No more digging through emails or statements. It's all in one view.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "left"
+      }
+    },
+    {
+      "title": "Subscription Analytics Dashboard",
+      "image": "https://ik.imagekit.io/achieversdesk27/subscription-tracker/das.png",
+      "text": "See a visual breakdown of your expenses by category, service, or time frame. Spot rising costs early and identify what’s truly worth keeping.",
+      "style": "text-over-image",
+      "htmlText": "<p class=\"text-white text-xl font-bold\">See a visual breakdown of your expenses by category, service, or time frame. Spot rising costs early and identify what’s truly worth keeping.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b"
+      }
+    },
+    {
+      "title": "Start Organizing Now",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"text-center\"><a href='https://achieversdesk.gumroad.com/l/subscription-tracker-iron' class='bg-blue-600 text-white px-6 py-3 rounded-full text-lg hover:bg-blue-700 transition'>Launch Tracker</a></div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "Calendar View",
+      "image": "https://ik.imagekit.io/achieversdesk27/subscription-tracker/calendar.png",
+      "text": "Get a monthly calendar view of all upcoming charges. Perfect for planning your pay cycles and avoiding unexpected deductions.",
+      "style": "image-grid",
+      "htmlText": "<p>Get a monthly calendar view of all upcoming charges. Perfect for planning your pay cycles and avoiding unexpected deductions.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "Focused Breakdown View",
+      "image": "",
+      "text": "Switch to a text-only breakdown of your subscriptions. See everything at a glance, great for quick reviews or sharing with your accountant.",
+      "style": "text-only",
+      "htmlText": "<p>Switch to a text-only breakdown of your subscriptions. See everything at a glance, great for quick reviews or sharing with your accountant.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b",
+        "color": "#f9fafb"
+      }
+    },
+    {
+      "title": "Ready to Track Smarter?",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"text-center\"><a href='https://achieversdesk.gumroad.com/l/subscription-tracker-iron' class='bg-green-600 text-blue px-6 py-3 rounded-full text-lg hover:bg-green-700 transition'>See Pricing Options</a></div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
+      }
+    }
+  ]
+}

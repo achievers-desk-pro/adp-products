@@ -1,0 +1,63 @@
+{
+  "name": "Priority Matrix Web App",
+  "description": "A productivity-focused web app based on the Eisenhower Matrix to help you take control of your tasks and projects. With support for multiple projects, task tracking, emailing capabilities, and export features, this tool is your personal priority assistant.",
+  "sections": [
+    {
+      "title": "Prioritize Like a Pro",
+      "image": "https://ik.imagekit.io/achieversdesk27/priority-matrix/5.png",
+      "text": "Categorize tasks into Urgent & Important, Not Urgent but Important, and more. This matrix structure keeps you focused on what truly matters every day.",
+      "style": "image-with-text",
+      "htmlText": "<p>Categorize tasks into Urgent & Important, Not Urgent but Important, and more. This matrix structure keeps you focused on what truly matters every day.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "left"
+      }
+    },
+    {
+      "title": "Multi-Project Support",
+      "image": "https://ik.imagekit.io/achieversdesk27/priority-matrix/4.png",
+      "text": "Create and manage tasks across multiple projects, each with its own matrix. Perfect for professionals juggling different responsibilities.",
+      "style": "text-over-image",
+      "htmlText": "<p class=\"text-white text-xl font-bold\">Create and manage tasks across multiple projects, each with its own matrix. Perfect for professionals juggling different responsibilities.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b"
+      }
+    },
+    {
+      "title": "Export and Share",
+      "image": "https://ik.imagekit.io/achieversdesk27/priority-matrix/6.png",
+      "text": "Easily export your task matrix as PDF or send it via email in Excel format. Keep your team or manager in the loop with zero hassle.",
+      "style": "image-with-text",
+      "htmlText": "<p>Easily export your task matrix as PDF or send it via email in Excel format. Keep your team or manager in the loop with zero hassle.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "right"
+      }
+    },
+    {
+      "title": "Complete Your Tasks with Focus",
+      "image": "https://ik.imagekit.io/achieversdesk27/priority-matrix/8.png",
+      "text": "Mark tasks as completed and keep track of your momentum. The app encourages accountability while keeping the interface minimal and clutter-free.",
+      "style": "text-over-image",
+      "htmlText": "<p class=\"text-white text-xl font-bold\">Mark tasks as completed and keep track of your momentum. The app encourages accountability while keeping the interface minimal and clutter-free.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b"
+      }
+    },
+    {
+      "title": "Boost Your Productivity",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"text-center\"><a href='https://achieversdesk.gumroad.com/l/priority-matrix-webapp-iron' class='bg-green-600 text-white px-6 py-3 rounded-full text-lg hover:bg-green-700 transition'>Get the Priority Matrix</a></div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
+      }
+    }
+  ]
+}

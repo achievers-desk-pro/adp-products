@@ -1,0 +1,63 @@
+{
+  "name": "Webhook to Google Sheet",
+  "description": "A privacy-focused, no-code solution to track your sales data in real-time directly into Google Sheets. Say goodbye to third-party analytics tools—your data stays where it belongs: with you.",
+  "sections": [
+    {
+      "title": "Real-Time Sales Logging",
+      "image": "https://ik.imagekit.io/achieversdesk27/webhook-to-sheet/webhook-solution1.png",
+      "text": "Every sale gets captured instantly and logged into your Google Sheet. Whether from Gumroad, Payhip, or custom tools, it’s all automated and blazing fast.",
+      "style": "image-with-text",
+      "htmlText": "<p>Every sale gets captured instantly and logged into your Google Sheet. Whether from Gumroad, Payhip, or custom tools, it’s all automated and blazing fast.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "left"
+      }
+    },
+    {
+      "title": "Private & Secure",
+      "image": "https://ik.imagekit.io/achieversdesk27/webhook-to-sheet/webhook-solution2.png",
+      "text": "Unlike other tools, your sales data is never routed through third-party servers. Everything goes directly into your Google Sheet—safe, secure, and private.",
+      "style": "text-over-image",
+      "htmlText": "<p class=\"text-white text-xl font-bold\">Unlike other tools, your sales data is never routed through third-party servers. Everything goes directly into your Google Sheet—safe, secure, and private.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b"
+      }
+    },
+    {
+      "title": "Built for Strategy",
+      "image": "https://ik.imagekit.io/achieversdesk27/webhook-to-sheet/webhook-solution5.png",
+      "text": "Analyze trends, run campaigns, and refine product strategies with real-time insights—directly from your spreadsheet, no integrations needed.",
+      "style": "image-grid",
+      "htmlText": "<p>Analyze trends, run campaigns, and refine product strategies with real-time insights—directly from your spreadsheet, no integrations needed.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "Tested Across Platforms",
+      "image": "https://ik.imagekit.io/achieversdesk27/webhook-to-sheet/webhook-solution4.png",
+      "text": "Whether you're selling through Gumroad, Payhip, Lemon Squeezy, or others—this solution works seamlessly and reliably across them all.",
+      "style": "image-with-text",
+      "htmlText": "<p>Whether you're selling through Gumroad, Payhip, Lemon Squeezy, or others—this solution works seamlessly and reliably across them all.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "right"
+      }
+    },
+    {
+      "title": "Own Your Workflow",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"text-center\"><a href='https://achieversdesk.gumroad.com/l/webhook-to-google-sheet-solution' class='bg-green-600 text-white px-6 py-3 rounded-full text-lg hover:bg-green-700 transition'>Set Up Now</a></div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
+      }
+    }
+  ]
+}

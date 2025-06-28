@@ -1,0 +1,74 @@
+{
+  "name": "Insurance Planner",
+  "description": "A complete insurance management Google Sheet designed to help you stay on top of all your policies—for yourself and your family. Whether it’s health, life, vehicle, or accidental insurance, this planner ensures you never miss a due date and always know your coverage details.",
+  "sections": [
+    {
+      "title": "All Policies, One View",
+      "image": "https://ik.imagekit.io/achieversdesk27/insurance-planner/3.png",
+      "text": "Add every policy you hold into a structured table with essential columns like provider, premium, due date, insured person, and category. You’ll never lose track of what matters most.",
+      "style": "image-with-text",
+      "htmlText": "<p>Add every policy you hold into a structured table with essential columns like provider, premium, due date, insured person, and category. You’ll never lose track of what matters most.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "left"
+      }
+    },
+    {
+      "title": "Smart Dashboard Overview",
+      "image": "https://ik.imagekit.io/achieversdesk27/insurance-planner/2.png",
+      "text": "Get a high-level view of your total coverage, upcoming premiums, overdue policies, and due reminders. The dashboard gives you a pulse on your insurance health instantly.",
+      "style": "text-over-image",
+      "htmlText": "<p class=\"text-white text-xl font-bold\">Get a high-level view of your total coverage, upcoming premiums, overdue policies, and due reminders. The dashboard gives you a pulse on your insurance health instantly.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b"
+      }
+    },
+    {
+      "title": "Stay Ahead With Complete View",
+      "image": "https://ik.imagekit.io/achieversdesk27/insurance-planner/4.png",
+      "text": "Visualize your premium due dates in a composite format. Easily spot what’s cost analysis and avoid last-minute surprises or missed payments.",
+      "style": "image-grid",
+      "htmlText": "<p>Visualize your premium due dates in a calendar format. Easily spot what’s coming up next week or month and avoid last-minute surprises or missed payments.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "Family-Wise Policy Tracking",
+      "image": "https://ik.imagekit.io/achieversdesk27/insurance-planner/6.png",
+      "text": "Assign policies to each family member and monitor coverage per individual. A great way to ensure no one in your family is left unprotected or under-insured.",
+      "style": "image-with-text",
+      "htmlText": "<p>Assign policies to each family member and monitor coverage per individual. A great way to ensure no one in your family is left unprotected or under-insured.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "right"
+      }
+    },
+    {
+      "title": "Premium History & Payment Log",
+      "image": "https://ik.imagekit.io/achieversdesk27/insurance-planner/5.png",
+      "text": "Log past premium payments to stay audit-ready and maintain financial discipline. View trends in your insurance costs and adjust coverage as needed.",
+      "style": "text-over-image",
+      "htmlText": "<p class=\"text-white text-xl font-bold\">Log past premium payments to stay audit-ready and maintain financial discipline. View trends in your insurance costs and adjust coverage as needed.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b"
+      }
+    },
+    {
+      "title": "Take Control Today",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"text-center\"><a href='https://achieversdesk.gumroad.com/l/insurance-planner-iron' class='bg-blue-600 text-white px-6 py-3 rounded-full text-lg hover:bg-blue-700 transition'>Start Planning Smarter</a></div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
+      }
+    }
+  ]
+}

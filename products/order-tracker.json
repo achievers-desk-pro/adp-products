@@ -1,0 +1,74 @@
+{
+  "name": "Order Tracker Google Sheet",
+  "description": "An end-to-end order tracking system built in Google Sheets, empowering small businesses and creators to stay on top of every order, status, and timeline. With a dynamic dashboard and intuitive filtering, it’s your command center for order and finance clarity.",
+  "sections": [
+    {
+      "title": "Track Every Order",
+      "image": "https://ik.imagekit.io/achieversdesk27/order-tracker/3.png",
+      "text": "Add and update orders in a structured format with fields for order ID, customer, items, assignee, timeline, and payment details. The sheet adapts to your workflow and makes status management effortless.",
+      "style": "image-with-text",
+      "htmlText": "<p>Add and update orders in a structured format with fields for order ID, customer, items, assignee, timeline, and payment details. The sheet adapts to your workflow and makes status management effortless.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "left"
+      }
+    },
+    {
+      "title": "Live Dashboard Overview",
+      "image": "https://ik.imagekit.io/achieversdesk27/order-tracker/1.png",
+      "text": "View real-time metrics including order volume, payment received, pending deliveries, and turnaround performance. Dynamic charts help you visualize key KPIs instantly.",
+      "style": "text-over-image",
+      "htmlText": "<p class=\"text-white text-xl font-bold\">View real-time metrics including order volume, payment received, pending deliveries, and turnaround performance. Dynamic charts help you visualize key KPIs instantly.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b"
+      }
+    },
+    {
+      "title": "Assignee-Based Analysis",
+      "image": "https://ik.imagekit.io/achieversdesk27/order-tracker/6.png",
+      "text": "Assign orders to team members and sort them by assignee for better delegation. Stay organized and accountable across all stakeholders.",
+      "style": "image-with-text",
+      "htmlText": "<p>Assign orders to team members and sort them by assignee for better delegation. Stay organized and accountable across all stakeholders.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "right"
+      }
+    },
+    {
+      "title": "Timeline and Due Tracking",
+      "image": "https://ik.imagekit.io/achieversdesk27/order-tracker/5.png",
+      "text": "See your delivery timelines on a visual scale—never miss a deadline again. You can filter by week, month, or urgent orders to stay proactive.",
+      "style": "image-grid",
+      "htmlText": "<p>See your delivery timelines on a visual scale—never miss a deadline again. You can filter by week, month, or urgent orders to stay proactive.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "Financial Summary at a Glance",
+      "image": "https://ik.imagekit.io/achieversdesk27/order-tracker/4.png",
+      "text": "Understand your order income, outstanding payments, and historical sales trends—clearly displayed through the financial dashboard section.",
+      "style": "text-over-image",
+      "htmlText": "<p class=\"text-white text-xl font-bold\">Understand your order income, outstanding payments, and historical sales trends—clearly displayed through the financial dashboard section.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b"
+      }
+    },
+    {
+      "title": "Get the Free Order Tracker Now",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"text-center\"><a href='https://achieversdesk.gumroad.com/l/order-tracker-copper' class='bg-blue-600 text-white px-6 py-3 rounded-full text-lg hover:bg-blue-700 transition'>Start Tracking Smarter</a></div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Investment Planner",
+  "description": "A smart and visual Google Sheet tool for individuals who want to bring structure to their monthly investments. It not only tracks your actual inflows but also compares them against your preset plan to help you stay disciplined and on target. Built for real-life use and financial clarity.",
+  "sections": [
+    {
+      "title": "Monthly Investment Tracking",
+      "image": "https://ik.imagekit.io/achieversdesk27/investment-planner/investment_tables.png",
+      "text": "Track each month's actual investments and see how well you're aligned with your intended plan. The sheet makes it easy to identify gaps and adjust your strategy mid-month if needed.",
+      "style": "image-with-text",
+      "htmlText": "<p>Track each month's actual investments and see how well you're aligned with your intended plan. The sheet makes it easy to identify gaps and adjust your strategy mid-month if needed.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "left"
+      }
+    },
+    {
+      "title": "Inflow & Outflow Charts",
+      "image": "https://ik.imagekit.io/achieversdesk27/investment-planner/planner_chart.png",
+      "text": "Visualize your total cash inflows and investment outflows in easy-to-read graphs. Understand your monthly saving potential and how much you're actually putting to work.",
+      "style": "text-over-image",
+      "htmlText": "<p class=\"text-white text-xl font-bold\">Visualize your total cash inflows and investment outflows in easy-to-read graphs. Understand your monthly saving potential and how much you're actually putting to work.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b"
+      }
+    },
+    {
+      "title": "Get the Planner",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"text-center\"><a href='https://achieversdesk.gumroad.com/l/ipiron' class='bg-blue-600 text-white px-6 py-3 rounded-full text-lg hover:bg-blue-700 transition'>Start Planning</a></div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "Reporting Sheet",
+      "image": "https://ik.imagekit.io/achieversdesk27/investment-planner/banner-report.png",
+      "text": "Drill down into month-wise reports and view performance across custom durations—including quarterly and yearly aggregates. Ideal for both review and accountability.",
+      "style": "image-grid",
+      "htmlText": "<p>Drill down into month-wise reports and view performance across custom durations—including quarterly and yearly aggregates. Ideal for both review and accountability.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "Data-Driven Discipline",
+      "image": "",
+      "text": "Set investment goals once, and let the planner act as your quiet enforcer. A no-nag, no-distraction way to stay on top of your money game.",
+      "style": "text-only",
+      "htmlText": "<p>Set investment goals once, and let the planner act as your quiet enforcer. A no-nag, no-distraction way to stay on top of your money game.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b",
+        "color": "#f9fafb"
+      }
+    },
+    {
+      "title": "Take Control Now",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"text-center\"><a href='https://achieversdesk.gumroad.com/l/ipplatinum' class='bg-green-600 text-blue px-6 py-3 rounded-full text-lg hover:bg-green-700 transition'>Try It Out</a></div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
+      }
+    }
+  ]
+}

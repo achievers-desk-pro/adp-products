@@ -1,0 +1,85 @@
+{
+  "name": "Digital Journal Google Sheet",
+  "description": "A thoughtfully designed journaling solution inside Google Sheets that helps you track your daily reflections, moods, and progress toward your goals. Whether you’re managing your emotions, building habits, or keeping a personal log, this template becomes your daily mental companion.",
+  "sections": [
+    {
+      "title": "Daily Journal Entries",
+      "image": "https://ik.imagekit.io/achieversdesk27/digital-journal/1.png",
+      "text": "Capture your thoughts, events, or reflections in a structured daily entry format. Assign tags or emojis to highlight the nature of each entry—from joyful to stressful, or anything in between.",
+      "style": "image-with-text",
+      "htmlText": "<p>Capture your thoughts, events, or reflections in a structured daily entry format. Assign tags or emojis to highlight the nature of each entry—from joyful to stressful, or anything in between.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "left"
+      }
+    },
+    {
+      "title": "Goal Setting and Completion",
+      "image": "https://ik.imagekit.io/achieversdesk27/digital-journal/2.png",
+      "text": "Every morning, define your top goal for the day. At day's end, mark it as completed or deferred. A simple structure to promote intentional living and habit-building.",
+      "style": "text-over-image",
+      "htmlText": "<p class=\"text-white text-xl font-bold\">Every morning, define your top goal for the day. At day's end, mark it as completed or deferred. A simple structure to promote intentional living and habit-building.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b"
+      }
+    },
+    {
+      "title": "Free Journaling Today",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"text-center\"><a href='https://achieversdesk.gumroad.com/l/ddcopper' class='bg-green-600 text-white px-6 py-3 rounded-full text-lg hover:bg-green-700 transition'>Get the Digital Journal</a></div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "Mood Tracker Calendar",
+      "image": "https://ik.imagekit.io/achieversdesk27/digital-journal/4.png",
+      "text": "View your daily moods through emoji-coded entries placed on a calendar. This visual overview lets you recognize emotional patterns, triggers, and growth trends.",
+      "style": "image-grid",
+      "htmlText": "<p>View your daily moods through emoji-coded entries placed on a calendar. This visual overview lets you recognize emotional patterns, triggers, and growth trends.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "Resolution Tracker",
+      "image": "https://ik.imagekit.io/achieversdesk27/digital-journal/5.png",
+      "text": "Track your longer-term resolutions and see monthly completion stats. This feature encourages consistency and shows how small steps lead to big wins.",
+      "style": "image-with-text",
+      "htmlText": "<p>Track your longer-term resolutions and see monthly completion stats. This feature encourages consistency and shows how small steps lead to big wins.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "right"
+      }
+    },
+    {
+      "title": "Reflect & Review",
+      "image": "https://ik.imagekit.io/achieversdesk27/digital-journal/6.png",
+      "text": "Review how your goals, moods, and journaling patterns evolved over a month. Summarized views provide deep insights into your mental wellness journey.",
+      "style": "text-over-image",
+      "htmlText": "<p class=\"text-white text-xl font-bold\">Review how your goals, moods, and journaling patterns evolved over a month. Summarized views provide deep insights into your mental wellness journey.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b"
+      }
+    },
+    {
+      "title": "Start Journaling Today",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"text-center\"><a href='https://achieversdesk.gumroad.com/l/digital-journal-iron' class='bg-green-600 text-white px-6 py-3 rounded-full text-lg hover:bg-green-700 transition'>Get the Digital Journal</a></div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
+      }
+    }
+  ]
+}

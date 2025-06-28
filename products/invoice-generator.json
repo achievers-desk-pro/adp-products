@@ -1,13 +1,13 @@
 {
-  "name": "Invoice Generator Tool",
-  "description": "A professional invoice generator designed for freelancers, consultants, and small businesses. This tool helps you create clean, tax-compliant invoices with full control over client details, itemized billing, and reusable templates. Export, print, or save your invoices effortlessly\u2014all without needing Excel or accounting software.",
+  "name": "Invoice Generator (Google Docs)",
+  "description": "A smart and reusable invoice template built on Google Docs. Designed for freelancers, consultants, and small business owners who need professional, customizable invoices without dealing with complex tools. Just duplicate, edit, and send — it's that simple.",
   "sections": [
     {
-      "title": "Custom Client & Item Input",
-      "image": "/images/placeholder.png",
-      "text": "Manually enter client information and itemized services or products. Every field is editable, giving you complete control over invoice structure, tax calculations, and additional charges like shipping or discounts.",
+      "title": "Instant Invoice Setup",
+      "image": "https://ik.imagekit.io/achieversdesk27/invoice-generator/1.png",
+      "text": "No more formatting headaches. Just open the template, plug in your details, and your invoice is ready to go. Designed to make billing look polished and professional in minutes.",
       "style": "image-with-text",
-      "htmlText": "<p>Manually enter client information and itemized services or products. Every field is editable, giving you complete control over invoice structure, tax calculations, and additional charges like shipping or discounts.</p>",
+      "htmlText": "<p>No more formatting headaches. Just open the template, plug in your details, and your invoice is ready to go. Designed to make billing look polished and professional in minutes.</p>",
       "styleInfo": {
         "marginTop": "2rem",
         "backgroundColor": "#f9fafb",
@@ -15,52 +15,37 @@
       }
     },
     {
-      "title": "Professional A4 Formatting",
-      "image": "/images/placeholder.png",
-      "text": "Invoices are automatically styled for A4 printing with proper spacing, headings, and branding space. Designed to look professional when sent as PDF or printed directly.",
-      "style": "image-with-text",
-      "htmlText": "<p>Invoices are automatically styled for A4 printing with proper spacing, headings, and branding space. Designed to look professional when sent as PDF or printed directly.</p>",
+      "title": "Customizable & Reusable",
+      "image": "https://ik.imagekit.io/achieversdesk27/invoice-generator/2.png",
+      "text": "Edit fields like client name, service description, rates, taxes, and totals. Save it once, reuse it every time. Perfect for recurring clients or varied billing needs.",
+      "style": "text-over-image",
+      "htmlText": "<p class=\"text-white text-xl font-bold\">Edit fields like client name, service description, rates, taxes, and totals. Save it once, reuse it every time. Perfect for recurring clients or varied billing needs.</p>",
       "styleInfo": {
         "marginTop": "2rem",
-        "backgroundColor": "#1e293b",
-        "imageAlignment": "right",
-        "color": "#f9fafb"
+        "backgroundColor": "#1e293b"
       }
     },
     {
-      "title": "Try It Free",
+      "title": "Professional Look",
+      "image": "https://ik.imagekit.io/achieversdesk27/invoice-generator/5.png",
+      "text": "Your invoice should reflect your brand. This template brings a clean, modern design that enhances trust and makes a great impression.",
+      "style": "image-with-text",
+      "htmlText": "<p>Your invoice should reflect your brand. This template brings a clean, modern design that enhances trust and makes a great impression.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "right"
+      }
+    },
+    {
+      "title": "Built for Google Docs",
       "image": "",
-      "text": "",
-      "style": "call-to-action",
-      "htmlText": "<div class=\"text-center\"><a href='/invoice-generator-demo' class='bg-blue-600 text-white px-6 py-3 rounded-full text-lg hover:bg-blue-700 transition'>Generate a Sample Invoice</a></div>",
+      "text": "Fully compatible with Google Docs, so you can edit, share, and collaborate with ease — all in the cloud, no software installs needed.",
+      "style": "text-only",
+      "htmlText": "<p>Fully compatible with Google Docs, so you can edit, share, and collaborate with ease — all in the cloud, no software installs needed.</p>",
       "styleInfo": {
-        "marginTop": "3rem",
+        "marginTop": "2rem",
         "backgroundColor": "#f9fafb"
-      }
-    },
-    {
-      "title": "Reusable Templates",
-      "image": "/images/placeholder.png",
-      "text": "Save client details and frequently billed items so you can reuse them without retyping. Perfect for retainer clients or recurring services.",
-      "style": "image-with-text",
-      "htmlText": "<p>Save client details and frequently billed items so you can reuse them without retyping. Perfect for retainer clients or recurring services.</p>",
-      "styleInfo": {
-        "marginTop": "2rem",
-        "backgroundColor": "#f9fafb",
-        "imageAlignment": "left"
-      }
-    },
-    {
-      "title": "Simplified Export & Print",
-      "image": "/images/placeholder.png",
-      "text": "With one click, export your invoice to PDF or send it to your printer. Maintain records in clean, easily shareable format\u2014ideal for client handovers and accounting.",
-      "style": "image-with-text",
-      "htmlText": "<p>With one click, export your invoice to PDF or send it to your printer. Maintain records in clean, easily shareable format\u2014ideal for client handovers and accounting.</p>",
-      "styleInfo": {
-        "marginTop": "2rem",
-        "backgroundColor": "#1e293b",
-        "imageAlignment": "right",
-        "color": "#f9fafb"
       }
     },
     {
@@ -68,151 +53,10 @@
       "image": "",
       "text": "",
       "style": "call-to-action",
-      "htmlText": "<div class=\"text-center\"><a href='/invoice-generator' class='bg-green-600 text-white px-6 py-3 rounded-full text-lg hover:bg-green-700 transition'>Start Invoicing Now</a></div>",
+      "htmlText": "<div class=\"text-center\"><a href='https://achieversdesk.gumroad.com/l/invoice-generator-iron' class='bg-green-600 text-white px-6 py-3 rounded-full text-lg hover:bg-green-700 transition'>Get the Invoice Generator</a></div>",
       "styleInfo": {
         "marginTop": "3rem",
         "backgroundColor": "#f9fafb"
-      }
-    },
-    {
-      "title": "Flexible Discounts",
-      "image": "/images/placeholder.png",
-      "text": "Apply percentage or flat-rate discounts directly to each invoice. Discounts are clearly itemized and automatically subtracted from the subtotal for full transparency.",
-      "style": "image-with-text",
-      "htmlText": "<p>Apply percentage or flat-rate discounts directly to each invoice. Discounts are clearly itemized and automatically subtracted from the subtotal for full transparency.</p>",
-      "styleInfo": {
-        "marginTop": "2rem",
-        "backgroundColor": "#f9fafb",
-        "imageAlignment": "left"
-      }
-    },
-    {
-      "title": "Shipping Charges",
-      "image": "/images/placeholder.png",
-      "text": "Easily add shipping costs when invoicing for products. These are included as a separate row and factored into the total, allowing clients to see exactly what they\u2019re paying for.",
-      "style": "image-with-text",
-      "htmlText": "<p>Easily add shipping costs when invoicing for products. These are included as a separate row and factored into the total, allowing clients to see exactly what they\u2019re paying for.</p>",
-      "styleInfo": {
-        "marginTop": "2rem",
-        "backgroundColor": "#1e293b",
-        "imageAlignment": "right",
-        "color": "#f9fafb"
-      }
-    },
-    {
-      "title": "Tax Inclusion Options",
-      "image": "/images/placeholder.png",
-      "text": "Enable or disable tax fields as needed. The invoice generator supports tax-inclusive or tax-exclusive modes, and lets you define GST, VAT, or custom tax types.",
-      "style": "image-with-text",
-      "htmlText": "<p>Enable or disable tax fields as needed. The invoice generator supports tax-inclusive or tax-exclusive modes, and lets you define GST, VAT, or custom tax types.</p>",
-      "styleInfo": {
-        "marginTop": "2rem",
-        "backgroundColor": "#f9fafb",
-        "imageAlignment": "left"
-      }
-    },
-    {
-      "title": "Terms & Conditions Footer",
-      "image": "/images/placeholder.png",
-      "text": "Add personalized terms and conditions to the bottom of your invoice. Clarify payment timelines, refund policies, or warranty disclaimers as part of your professional invoice layout.",
-      "style": "image-with-text",
-      "htmlText": "<p>Add personalized terms and conditions to the bottom of your invoice. Clarify payment timelines, refund policies, or warranty disclaimers as part of your professional invoice layout.</p>",
-      "styleInfo": {
-        "marginTop": "2rem",
-        "backgroundColor": "#1e293b",
-        "imageAlignment": "right",
-        "color": "#f9fafb"
-      }
-    },
-    {
-      "title": "Smart Memory System",
-      "image": "/images/placeholder.png",
-      "text": "The built-in smart memory system saves your frequently used data such as client addresses, terms & conditions, and default invoice settings. This eliminates the need to retype common information, speeds up invoice creation, and ensures consistency across all your billing documents.",
-      "style": "image-with-text",
-      "htmlText": "<p>The built-in smart memory system saves your frequently used data such as client addresses, terms & conditions, and default invoice settings. This eliminates the need to retype common information, speeds up invoice creation, and ensures consistency across all your billing documents.</p>",
-      "styleInfo": {
-        "marginTop": "2rem",
-        "backgroundColor": "#f9fafb",
-        "imageAlignment": "left"
-      }
-    },
-    {
-      "title": "Who Should Use It",
-      "image": "",
-      "text": "Designed to serve the needs of a wide range of users—from freelancers to consultants—this tool provides flexibility, polish, and ease of use for every billing scenario.",
-      "style": "persona-grid",
-      "htmlText": "<div class=\"text-center\"><h2 class=\"text-2xl font-bold mb-4\">Perfect For</h2><ul class=\"mt-4 grid sm:grid-cols-3 gap-4 text-gray-700 font-medium\"><li>🧑‍💼 Freelancers</li><li>🏢 Small Businesses</li><li>📊 Consultants</li><li>📦 Product Sellers</li><li>🌐 Agencies</li><li>🛠️ Contractors</li></ul></div>",
-      "styleInfo": {
-        "marginTop": "4rem",
-        "backgroundColor": "#f9fafb"
-      }
-    },
-    {
-      "title": "See It In Action",
-      "image": "",
-      "text": "Visual previews help users understand exactly what the final invoice will look like before sending. Professional layout, branding alignment, and A4 formatting come standard.",
-      "style": "image-gallery",
-      "htmlText": "<div class=\"text-center\"><h2 class=\"text-2xl font-bold mb-4\">See It in Action</h2><div class=\"grid grid-cols-1 sm:grid-cols-2 gap-4\"><img src=\"/images/placeholder.png\" class=\"rounded-xl shadow\" alt=\"Invoice layout preview 1\" /><img src=\"/images/placeholder.png\" class=\"rounded-xl shadow\" alt=\"Invoice layout preview 2\" /></div></div>",
-      "styleInfo": {
-        "marginTop": "4rem",
-        "backgroundColor": "#1e293b",
-        "color": "#f9fafb"
-      }
-    },
-    {
-      "title": "What People Are Saying",
-      "image": "",
-      "text": "User testimonials help build trust and establish credibility. Highlight client feedback to show how this tool solves real-world invoicing challenges.",
-      "style": "testimonial",
-      "htmlText": "<blockquote class=\"italic text-center text-gray-700 max-w-3xl mx-auto\">“This tool has saved me hours every month. It's simple, fast, and looks professional.”<br><span class=\"block mt-2 text-sm font-medium text-gray-500\">– Ritu Jain, Independent Consultant</span></blockquote>",
-      "styleInfo": {
-        "marginTop": "4rem",
-        "backgroundColor": "#f9fafb"
-      }
-    },
-    {
-      "title": "Frequently Asked Questions",
-      "image": "",
-      "text": "Address common concerns and guide users through basic usage, features, and limitations.",
-      "style": "faq",
-      "htmlText": "<div class=\"max-w-2xl mx-auto space-y-4\"><details class=\"border rounded p-4\"><summary class=\"font-semibold cursor-pointer\">Is this invoice tool free to use?</summary><p class=\"mt-2 text-gray-600\">Yes! You can generate and print invoices without any hidden charges.</p></details><details class=\"border rounded p-4\"><summary class=\"font-semibold cursor-pointer\">Can I add taxes and discounts?</summary><p class=\"mt-2 text-gray-600\">Absolutely. The tool supports both tax-inclusive and exclusive setups, and allows flat or percentage-based discounts.</p></details></div>",
-      "styleInfo": {
-        "marginTop": "4rem",
-        "backgroundColor": "#1e293b",
-        "color": "#f9fafb"
-      }
-    },
-    {
-      "title": "How It Compares",
-      "image": "",
-      "text": "A quick look at how this tool stacks up against traditional spreadsheet and paid invoicing software.",
-      "style": "comparison-table",
-      "htmlText": "<div class=\"overflow-x-auto\"><table class=\"table-auto w-full text-left border-collapse\"><thead><tr><th class=\"border-b p-2\">Feature</th><th class=\"border-b p-2\">Invoice Generator</th><th class=\"border-b p-2\">Spreadsheets</th><th class=\"border-b p-2\">Paid Software</th></tr></thead><tbody><tr><td class=\"border-b p-2\">No Login Required</td><td class=\"border-b p-2\">✅</td><td class=\"border-b p-2\">❌</td><td class=\"border-b p-2\">❌</td></tr><tr><td class=\"border-b p-2\">Custom Templates</td><td class=\"border-b p-2\">✅</td><td class=\"border-b p-2\">⚠️</td><td class=\"border-b p-2\">✅</td></tr><tr><td class=\"border-b p-2\">Free to Use</td><td class=\"border-b p-2\">✅</td><td class=\"border-b p-2\">✅</td><td class=\"border-b p-2\">❌</td></tr></tbody></table></div>",
-      "styleInfo": {
-        "marginTop": "4rem",
-        "backgroundColor": "#f9fafb"
-      }
-    },
-    {
-      "title": "Pricing Plans",
-      "image": "",
-      "text": "Our tool is completely free for most users, but we also offer enhanced features for growing teams or businesses.",
-      "style": "pricing-grid",
-      "htmlText": "<div class=\"max-w-4xl mx-auto grid md:grid-cols-3 gap-6 text-center\"><div class=\"bg-white rounded-xl shadow p-6\"><h3 class=\"text-xl font-bold mb-2\">Free</h3><p class=\"text-gray-600 mb-4\">Ideal for solo freelancers</p><p class=\"text-3xl font-semibold\">₹0</p></div><div class=\"bg-white rounded-xl shadow p-6 border-2 border-blue-600\"><h3 class=\"text-xl font-bold mb-2\">Pro</h3><p class=\"text-gray-600 mb-4\">For frequent users and small teams</p><p class=\"text-3xl font-semibold\">₹299/mo</p></div><div class=\"bg-white rounded-xl shadow p-6\"><h3 class=\"text-xl font-bold mb-2\">Enterprise</h3><p class=\"text-gray-600 mb-4\">Need custom integration?</p><p class=\"text-3xl font-semibold\">Let's Talk</p></div></div>",
-      "styleInfo": {
-        "marginTop": "4rem",
-        "backgroundColor": "#f9fafb"
-      }
-    },
-    {
-      "title": "Use Case Scenarios",
-      "image": "",
-      "text": "Explore how different professionals and businesses use the Invoice Generator to simplify billing.",
-      "style": "use-cases",
-      "htmlText": "<div class=\"grid md:grid-cols-2 gap-6 max-w-4xl mx-auto\"><div class=\"bg-white rounded shadow p-4\"><h4 class=\"text-lg font-semibold mb-2\">Freelance Designer</h4><p class=\"text-gray-600\">Sends branded invoices with recurring client info auto-filled.</p></div><div class=\"bg-white rounded shadow p-4\"><h4 class=\"text-lg font-semibold mb-2\">Home-Based Seller</h4><p class=\"text-gray-600\">Adds shipping and tax rows seamlessly for each physical order.</p></div><div class=\"bg-white rounded shadow p-4\"><h4 class=\"text-lg font-semibold mb-2\">Consulting Agency</h4><p class=\"text-gray-600\">Utilizes PDF export and saved templates for internal approval and client sharing.</p></div><div class=\"bg-white rounded shadow p-4\"><h4 class=\"text-lg font-semibold mb-2\">NGO or Educator</h4><p class=\"text-gray-600\">Issues professional invoices with zero-cost tools.</p></div></div>",
-      "styleInfo": {
-        "marginTop": "4rem",
-        "backgroundColor": "#1e293b"
       }
     }
   ]

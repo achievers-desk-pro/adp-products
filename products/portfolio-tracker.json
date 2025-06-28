@@ -1,0 +1,122 @@
+{
+  "name": "Portfolio Tracker",
+  "description": "A visual portfolio tracker built for individual investors who want clarity and control over their asset distribution, gain/loss insights, and market exposure. Track your investments, understand your stock-wise performance, and get a high-level view of your financial standing—without the need for external dashboards.",
+  "sections": [
+    {
+      "title": "Smart Asset Allocation",
+      "image": "https://ik.imagekit.io/achieversdesk27/portfolio-tracker/1.png",
+      "text": "Understand how your investments are distributed across stocks, sectors, or asset classes. The visual dashboard shows your allocations in real-time and highlights potential imbalances.",
+      "style": "image-with-text",
+      "htmlText": "<p>Understand how your investments are distributed across stocks, sectors, or asset classes. The visual dashboard shows your allocations in real-time and highlights potential imbalances.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "left"
+      }
+    },
+    {
+      "title": "Gain / Loss Tracking",
+      "image": "https://ik.imagekit.io/achieversdesk27/portfolio-tracker/2.png",
+      "text": "Keep an eye on how your holdings are performing with automatically calculated gain/loss values. Visualize growth over time and identify which assets are outperforming.",
+      "style": "text-over-image",
+      "htmlText": "<p class=\"text-white text-xl font-bold\">Keep an eye on how your holdings are performing with automatically calculated gain/loss values. Visualize growth over time and identify which assets are outperforming.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b"
+      }
+    },
+    {
+      "title": "Start Tracking with Iron Version",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"text-center\"><a href='https://achieversdesk.gumroad.com/l/ptiron' class='bg-blue-600 text-white px-6 py-3 rounded-full text-lg hover:bg-blue-700 transition'>Launch Tracker</a></div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "Walkthrough Video",
+      "text": "Watch a full walkthrough of how to use the Portfolio Tracker. See how to navigate the dashboard, apply filters, and extract insights in minutes.",
+      "style": "video-with-text",
+      "htmlText": "<p>Watch a full walkthrough of how to use the Portfolio Tracker. See how to navigate the dashboard, apply filters, and extract insights in minutes.</p>",
+      "videoUrl": "https://youtu.be/ycLVWFJrnBI",
+      "videoType" : "embed",
+      "styleInfo": {
+        "marginTop": "4rem",
+        "backgroundColor": "#f9fafb",
+        "videoAlignment": "right",
+        "lazy": true
+      }
+    },
+    {
+      "title": "Stock Performance Charts",
+      "image": "https://ik.imagekit.io/achieversdesk27/portfolio-tracker/3.png",
+      "text": "Get detailed charts showing stock-wise valuation over time. Interact with candle and bar charts for each holding using a simple dropdown selector.",
+      "style": "image-grid",
+      "htmlText": "<p>Get detailed charts showing stock-wise valuation over time. Interact with candle and bar charts for each holding using a simple dropdown selector.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "Checkout the silver edition with Analytical capability",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"text-center\"><a href='https://achieversdesk.gumroad.com/l/portfolio-tracker-silver' class='bg-blue-600 text-white px-6 py-3 rounded-full text-lg hover:bg-blue-700 transition'>Get Silver Edition Tracker</a></div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
+      }
+    },
+    {
+      "title": "Clean Breakdown View",
+      "image": "",
+      "text": "Switch to a clean tabular view when you want a quick comparison of invested value vs market value. Designed for clarity during reviews or reporting.",
+      "style": "text-only",
+      "htmlText": "<p>Switch to a clean tabular view when you want a quick comparison of invested value vs market value. Designed for clarity during reviews or reporting.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b",
+        "color": "#f9fafb"
+      }
+    },
+    {
+      "title": "Custom Filters & Sorting",
+      "image": "https://ik.imagekit.io/achieversdesk27/portfolio-tracker/5.png",
+      "text": "Easily filter your portfolio by stock, gain percentage daily or total, or investment and valuation type. Sort by valuation, gain/loss, or stock symbol to prioritize what matters most to you.",
+      "style": "image-with-text",
+      "htmlText": "<p>Easily filter your portfolio by stock, gain percentage daily or total, or investment and valuation type. Sort by valuation, gain/loss, or stock symbol to prioritize what matters most to you.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#f9fafb",
+        "imageAlignment": "right"
+      }
+    },
+    {
+      "title": "Trend Analysis & Bubble Insights",
+      "image": "https://ik.imagekit.io/achieversdesk27/portfolio-tracker/7.png",
+      "text": "Analyze your portfolio trends over time using visual timelines and bubble charts. Spot underperformers or outliers easily and make data-backed decisions with confidence.",
+      "style": "text-over-image",
+      "htmlText": "<p class=\"text-white text-xl font-bold\">Analyze your portfolio trends over time using visual timelines and bubble charts. Spot underperformers or outliers easily and make data-backed decisions with confidence.</p>",
+      "styleInfo": {
+        "marginTop": "2rem",
+        "backgroundColor": "#1e293b"
+      }
+    },
+    {
+      "title": "Get it on payhip",
+      "image": "",
+      "text": "",
+      "style": "call-to-action",
+      "htmlText": "<div class=\"text-center\"><a href='https://payhip.achieversdeskpro.store/b/Uw37L' class='bg-green-600 text-blue px-6 py-3 rounded-full text-lg hover:bg-green-700 transition'>Buy Now</a></div>",
+      "styleInfo": {
+        "marginTop": "3rem",
+        "backgroundColor": "#f9fafb"
+      }
+    }
+  ]
+}
